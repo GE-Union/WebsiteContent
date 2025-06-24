@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "category": "Category Name 1",
+      "questions": [
+        {
+          "question": "Question 1?",
+          "answer": "Answer to question."
+        },
+        {
+          "question": "Question 2?",
+          "answer": "Answer to question."
+        }
+      ]
+    },
+    {
+      "category": "Category Name 2",
+      "questions": [
+        {
+          "question": "Question 1?",
+          "answer": "Answer to question."
+        },
+        {
+          "question": "Question 2?",
+          "answer": "Answer to question."
+        }
+      ]
+    }
+  ]
+}
