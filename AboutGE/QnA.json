@@ -1,30 +1,24 @@
 {
-  "categories": [
+  "questions": [
     {
-      "category": "Category Name 1",
-      "questions": [
-        {
-          "question": "Question 1?",
-          "answer": "Answer to question."
-        },
-        {
-          "question": "Question 2?",
-          "answer": "Answer to question."
-        }
-      ]
+      "question": "How do design-build projects work in this programme?",
+      "answer": "They are 3-week intensive courses held in January or June. You work in teams to solve real-life problems using what you've learned during the semester."
     },
     {
-      "category": "Category Name 2",
-      "questions": [
-        {
-          "question": "Question 1?",
-          "answer": "Answer to question."
-        },
-        {
-          "question": "Question 2?",
-          "answer": "Answer to question."
-        }
-      ]
+      "question": "When and how do I choose a specialisation?",
+      "answer": "The specialisation is defined by the courses you take. During your first year, it is mandatory to pick at least two of the introductory courses. Afterwards, you can use the specialisations as recommendations for which courses to take."
+    },
+    {
+      "question": "Can I study abroad during the bachelor’s degree?",
+      "answer": "Yes, most students go on exchange in the 5th semester. DTU offers many partner universities, which you can explore here."
+    },
+    {
+      "question": "How much freedom do I have in choosing courses in the later years?",
+      "answer": "You can choose freely from the available courses. If you don’t follow a full specialisation, it simply won’t appear on your diploma."
+    },
+    {
+      "question": "What support is available for students during their studies?",
+      "answer": "DTU provides academic guidance, mental health support, and career counselling. You can see all options here."
     }
   ]
 }
